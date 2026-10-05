@@ -1,0 +1,1 @@
+This is a simple personal project that I created for boba workshop hackclub
